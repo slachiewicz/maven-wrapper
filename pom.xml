@@ -67,7 +67,7 @@
         <artifactId>provisio-maven-plugin</artifactId>
         <!--  careful - upgrade to 0.1.50 causes problem with extraction of tar.gz
         instead of into .mvn/warpper it looses the .mvn path and extracts to warpper -->
-        <version>0.1.46</version>
+        <version>0.1.56</version>
         <extensions>true</extensions>
       </plugin>
     </plugins>
